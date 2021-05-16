@@ -1,7 +1,7 @@
 Grupni seminarski radovi (opciono)
 ==================================
 
-Studenti koji žele da se angažuju više i da deo svojih obaveza ispune pre ispitnih rokova, mogu da zarade do 30 poena kroz grupni seminarski rad. Seminarski rad obuhvata implementaciju grupnog projekta. Seminarski rad nije obavezan.
+Studenti koji žele da se angažuju više i da deo svojih obaveza ispune pre ispitnih rokova, mogu da zarade do 30 poena kroz grupni seminarski rad. Seminarski rad obuhvata implementaciju grupnog projekta. Seminarski rad **nije obavezan** i zamenjuje **30 poena** praktičnog dela ispita i u tom slučaju studenti polažu redukovani praktični ispit od 30 poena. Potrebno je ostvariti prag od **10 poena** na redukovanom praktičnom ispitu i bar **30 poena** u zbiru sa poenima osvojenim na projektu.
 
 Detalji:
 
@@ -11,6 +11,7 @@ Detalji:
 *   Rokovi za predaju seminarskih radova su
     *   11.01.2021 - za odbranu u januaru
     *   24.05.2021 - za odbranu u junu
+*   Asistentu se mora najaviti odbrana do kraja roka za predaju seminarkog rada.
 *   Odbrane će biti organizovane neposredno nakon rokova za predaju putem online sastanka kome prisustvuju profesor i asistenti.
 *   Izvorni kodovi se moraju postaviti u repozitorijum kreiran od strane asistenta u okviru organizacije u kojoj se nalaze svi ostali seminarski radovi. Pozivnice za pristup organizaciji će biti poslate nakon isteka roka za prijavu seminarskih radova.
 *   Neophodno je napraviti izvršnu verziju programa i postaviti je zapakovanu u repozitorijum pod sekciju \`Releases\`.
