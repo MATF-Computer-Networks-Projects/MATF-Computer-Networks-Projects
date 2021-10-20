@@ -12,7 +12,7 @@ Detalji:
 *   Asistentu se mora najaviti odbrana do kraja roka za predaju seminarkog rada.
 *   Odbrane će biti organizovane neposredno nakon rokova za predaju putem online sastanka kome prisustvuju profesor i asistenti.
 *   Izvorni kodovi se moraju postaviti u repozitorijum kreiran od strane asistenta u okviru organizacije u kojoj se nalaze svi ostali seminarski radovi. Pozivnice za pristup organizaciji će biti poslate nakon isteka roka za prijavu seminarskih radova.
-*   Neophodno je napraviti izvršnu verziju programa i postaviti je zapakovanu u repozitorijum pod sekciju \`Releases\`.
+*   Neophodno je napraviti izvršnu verziju programa i postaviti je zapakovanu u repozitorijum pod sekciju `Releases`.
 *   Repozitorijum mora da ima README.md fajl koji treba da sadrži:
     *   ime teme
     *   kratak opis šta tema obuhvata
