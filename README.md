@@ -6,7 +6,7 @@ Studenti koji žele da se angažuju više i da deo svojih obaveza ispune pre isp
 Detalji:
 
 *   Seminarski rad se radi samostalno ili u grupama do 3 člana.
-*   Temu za seminarski rad sami predlažete ili možete dobiti jednu od izabranih tema profesora/asistenata.
+*   Temu za seminarski rad sami predlažete. Moguće su konsultacije sa asistentima o detaljima vezanima za temu.
 *   Izvorni kod može biti pisan u proizvoljnom programskom jeziku.
 *   Seminarski rad se mora predati pre prvog ispitnog roka.
 *   Asistentu se mora najaviti odbrana do kraja roka za predaju seminarkog rada.
@@ -24,3 +24,11 @@ Detalji:
     *   sve ostalo što smatrate da je važno (npr. prikaz rada)
 
 Forma za prijavu seminarskih radova se može naći na sledećem [linku](https://forms.gle/7xh9aybSQDi1TPgJ6).
+
+Plan aktivnosti:
+*  Prijava za izradu
+*  Eventualno konsultacije u vezi teme ili procesiranje traženih modifikacija prijavljene teme
+*  Dobijanje pozivnice za GitHub organizaciju
+*  Nakon prihvatanja pozivnica, kreiranje timova i repozitorijuma
+*  Izrada rada
+*  Odbrana
